@@ -20,5 +20,7 @@
 <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=nebulatris&show_icons=true&locale=en" alt="nebulatris" /></p>
 
 <p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nebulatris&" alt="nebulatris" /></p>
-<h3 align="left">Contribution Graph</h3>
-![snake gif](https://github.com/NebulaTris/NebulaTris/blob/output/github-contribution-grid-snake.gif)
+<br><br><br><br><br><br>
+<p><h3 align="left">Contribution Graph</h3>
+
+![snake gif](https://github.com/NebulaTris/NebulaTris/blob/output/github-contribution-grid-snake.gif)</p>
