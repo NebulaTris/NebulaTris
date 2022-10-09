@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shambhavi Mishra</h1>
-<h3 align="center">A computer science kid who wants to dabble in all CS fields</h3>
+<h3 align="center">A computer science student who wants to dabble in all CS fields.</h3>
 <img align="right" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nebulatris&label=Profile%20views&color=0e75b6&style=flat" alt="nebulatris" /> </p>
 
@@ -9,9 +9,11 @@
 
 - 👯 I’m looking to collaborate on **Frontend Development and Machine Learning**
 
+- ⚡ Fun fact - **An avid youtube and reddit wanderer**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/shamish_nebula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shamish_nebula" height="30" width="40" /></a>
+<a href="https://kaggle.com/shamishnebula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shamishnebula" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
