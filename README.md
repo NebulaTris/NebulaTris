@@ -25,5 +25,6 @@
 
 <p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nebulatris&" alt="nebulatris" /></p>
 <br><br><br><br><br><br><br>
-<p><h3 align="left">Contribution Graph:</h3>
+<!--<p><h3 align="left">Contribution Graph:</h3>
 <img align="left" width="1000" src="https://github.com/NebulaTris/NebulaTris/blob/output/github-contribution-grid-snake.gif"></p>
+>
