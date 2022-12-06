@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shambhavi Mishra</h1>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
+</div><h1 align="center">I am Shambhavi Mishra</h1>
 <h3 align="center">A computer science student who wants to dabble in all CS fields.</h3>
 <img align="right" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nebulatris&label=Profile%20views&color=0e75b6&style=flat" alt="nebulatris" /> </p>
