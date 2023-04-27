@@ -21,8 +21,8 @@
 <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=NebulaTris&theme=dark&card_width=360"/>&ensp;&nbsp;<img width="400" src="https://streak-stats.demolab.com?user=NebulaTris&theme=dark&card_width=400"/></br> 
 <img width="400" src="https://api.githubtrends.io/user/svg/NebulaTris/langs?time_range=one_year&theme=dark"/>&ensp; <img width="400" src="https://api.githubtrends.io/user/svg/NebulaTris/repos?time_range=one_year&theme=dark"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NebulaTris&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
+# 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=NebulaTris&theme=onestar&no-frame=false&no-bg=true&margin-w=4" width="800"/>
 
 
 
