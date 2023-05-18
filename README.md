@@ -24,7 +24,7 @@
 
 # 🏆 GitHub Trophies
 <!--<img src="https://github-profile-trophy.vercel.app/?username=NebulaTris&theme=onestar&no-frame=false&no-bg=true&margin-w=4" />-->
-![trophy](https://github-trophies.vercel.app/?username=NebulaTris&theme=onestar&no-frame=true)
+<img src="https://github-trophies.vercel.app/?username=NebulaTris&theme=onestar&no-frame=true" width="800"/>
 
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
