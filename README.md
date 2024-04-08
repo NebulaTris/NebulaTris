@@ -6,6 +6,11 @@
 <img align="right" width="280" src="https://github.com/NebulaTris/NebulaTris/assets/94922914/60503578-ac7d-483d-bf6a-0ba07f9b09d7">
 <!--<img align="right" width="400" src="https://user-images.githubusercontent.com/94922914/233508815-a208793f-7564-4ee8-9a01-1c487e22ccef.gif">-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nebulatris&label=Profile%20views&color=0e75b6&style=flat" alt="nebulatris" /> </p>
+<div align="left"> 
+<a href="https://github.com/NebulaTris
+">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Shambhav+Mishra;Computer+science+Learner+%7C+Fullstack+Engineer;Data+Science+%7C+Machine+Learning+%7C+Software Engenieer" alt="Typing SVG" />
+</a></div>
 
 - 🔭 I’m currently working on **Machine Learning and Full Stack**
 
